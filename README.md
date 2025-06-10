@@ -27,15 +27,15 @@ This project is a companion to the article: [**Tool calling with Apple Intellige
 
 ## 📱 Requirements
 
-- Xcode 16.0 or later
-- iOS 18.0+ / macOS 15.0+
+- Xcode 26.0 or later
+- iOS 26.0+
 - Apple Intelligence-capable device
 
 ## 🚦 Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/coffeeai.git
+   git clone https://github.com/swiftyalex/coffeeai.git
    ```
 
 2. Open `coffeeai.xcodeproj` in Xcode
