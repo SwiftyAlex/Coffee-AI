@@ -35,7 +35,7 @@ This project is a companion to the article: [**Tool calling with Apple Intellige
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/swiftyalex/coffeeai.git
+   git clone https://github.com/SwiftyAlex/Coffee-AI.git
    ```
 
 2. Open `coffeeai.xcodeproj` in Xcode
